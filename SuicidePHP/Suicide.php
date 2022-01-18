@@ -7,6 +7,6 @@
     <title>Suicide</title>
 </head>
 <body>
-<img alt="reeeeee" src="img.png">
+<img alt="reeeeee" src="../img.png">
 </body>
 </html>
