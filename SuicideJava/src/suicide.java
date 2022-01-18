@@ -16,8 +16,6 @@ public class suicide {
             positionY = (int) Math.round(Math.random()*1080);
             Suicide.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         }
-
-
     }
     public void keyPressed(KeyEvent e) {
         if(e.getKeyCode()==KeyEvent.VK_SPACE) {
